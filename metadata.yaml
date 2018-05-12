@@ -1,0 +1,46 @@
+_repo: Cambridge-and-its-Story_43764
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Railton, Fanny
+    aliases:
+    - Edney, Frances Janetta
+    - Railton, Mrs. Herbert
+    gutenberg_agent_id: '42398'
+    url: http://www.gutenberg.org/2009/agents/42398
+  - agent_name: Railton, Herbert
+    birthdate: 1857
+    deathdate: 1910
+    gutenberg_agent_id: '42184'
+    url: http://www.gutenberg.org/2009/agents/42184
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Railton
+covers:
+- cover_type: archival
+  image_path: 43764-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stubbs, Charles William
+    alias: Stubbs, Charles William, Bp. of Truro
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '42397'
+    url: http://www.gutenberg.org/2009/agents/42397
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2013-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43764'
+  lccn: 04004380
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcsh 'Cambridge (England) -- History'
+- !lcc 'LF'
+- !lcsh 'University of Cambridge -- History'
+- !lcc 'DA'
+title: Cambridge and Its Story
+url: http://www.gutenberg.org/ebooks/43764
